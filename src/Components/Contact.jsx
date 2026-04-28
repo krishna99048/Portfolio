@@ -39,7 +39,7 @@ function Contact() {
               
 
               <a
-                href="https://github.com/"
+                href="https://github.com/krishna99048"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition"
